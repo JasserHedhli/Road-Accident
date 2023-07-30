@@ -9,5 +9,5 @@
 ![requirements](https://github.com/JasserHedhli/Road-Accident/assets/88170182/4825eb89-d4ed-4118-9096-13e6caaf7450)
 ### Stackeholders
 ![stackeholders](https://github.com/JasserHedhli/Road-Accident/assets/88170182/0e4fd09e-6151-44bd-8c2e-2f659e096012)
-### Dashoard
+### Dashboard
 ![road](https://github.com/JasserHedhli/Road-Accident/assets/88170182/d8fc5ade-5b44-4931-a386-edef6c223e02)
